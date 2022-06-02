@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="43" viewBox="0 0 108 43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 260px;
+        fill: #149df4;
+        font-family: Aller-LightItalic, Aller;
+      }
+    </style>
+  </defs>
+  <text id="tran" class="cls-1" transform="translate(-6.38 42.23) scale(0.245 0.246)">tran</text>
+</svg>

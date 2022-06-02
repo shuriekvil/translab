@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
+
+@font-face {
+    font-family: aller;
+    src: url(../fonts/Aller_LtIt.ttf);
+}
+
+@font-face {
+    font-family: prox;
+    src: url(../fonts/ProximaNova-Semibold.ttf);
+}
+
+@font-face {
+    font-family: prox-l;
+    src: url(../fonts/ProximaNova-Light.ttf);
+}
+
+@font-face {
+    font-family: prox-r;
+    src: url(../fonts/ProximaNova-Regular.ttf);
+}
